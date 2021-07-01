@@ -24,7 +24,7 @@ exemplo: _git config --global --unset user.name_
 
 :beginner: **Ver os repositórios cadastrados:**   _git remote -v_
 
-:beginner: **Subir arquivos para o Github**   _git push origin master_
+:beginner: **Subir arquivos para o Github**   _git push -u origin master_
 
 :beginner: **Puxar arquivos do GitHub:**   _git pull origin master_
 
